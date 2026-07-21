@@ -1,4 +1,4 @@
-##User Guide
+## User Guide
 
 To create a user guide blah blah  
 blahblahblah  
@@ -6,11 +6,11 @@ blahblahblah
 * list item
 * list item
 
-###Sample Header  
+### Sample Header  
 1.numbered item
 2.numbered item
 3.numbered item
 
-###Sample header  
+### Sample header  
 gvsubskcnsknskv  
 fbuhmscklsmcslmlm
